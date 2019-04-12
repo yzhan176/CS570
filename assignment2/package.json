@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "tsc reverse-polish-notation-calculator.ts --target \"es2016\"",
+    "start": "node reverse-polish-notation-calculator.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.9.4",
+    "@types/readline-sync": "^1.4.3"
+  },
+  "description": ""
+}
