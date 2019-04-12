@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "build": "tsc trie-article.ts --target \"es2016\"",
+    "start": "node trie-article.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.9",
+    "@types/readline-sync": "^1.4.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.9"
+  },
+  "description": ""
+}
