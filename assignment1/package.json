@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"build": "tsc ass1.ts --target \"es6\"",
+		"start": "node ass1.js"
+	},
+	"dependencies": {
+		"@types/node": "^10.9.4",
+		"@types/readline-sync": "^1.4.3",
+		"readline-sync": "^1.4.9"
+	}
+}
