@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "build": "tsc huffman-coding.ts --target \"es2016\"",
+    "start": "node huffman-coding.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.2",
+    "@types/readline-sync": "^1.4.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.9"
+  },
+  "description": ""
+}
