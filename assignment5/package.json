@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "build": "tsc link.ts --target \"es2016\"",
+    "start": "node link.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.12",
+    "@types/readline-sync": "^1.4.3",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.9"
+  },
+  "description": ""
+}
